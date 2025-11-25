@@ -1,5 +1,3 @@
-- [🏠 Home](/)
-
 - **Piano di Allenamento**
   - [📊 Training Tables](table.md)
   - [📅 Training Schedule](training-schedule.md)
