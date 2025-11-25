@@ -15,12 +15,15 @@ fi
 TEMP_FILE="temp_combined.md"
 OUTPUT_FILE="training-plan-complete.pdf"
 
+# Get current date
+CURRENT_DATE=$(date +"%d/%m/%Y")
+
 # Combine all markdown files in order
-cat > "$TEMP_FILE" << 'EOF'
+cat > "$TEMP_FILE" << EOF
 ---
-title: "Training Plan - Giacomo"
+title: "Training Plan - Nai"
 author: "Giacomo"
-date: "2025"
+date: "$CURRENT_DATE"
 documentclass: article
 geometry: margin=2cm
 ---
