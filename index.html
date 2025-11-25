@@ -12,6 +12,51 @@
       --theme-color: #42b983;
       --theme-color-dark: #368f6e;
     }
+
+    /* PDF Button Styles */
+    .pdf-download-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--theme-color);
+      color: white;
+      border: none;
+      border-radius: 50px;
+      padding: 12px 24px;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      font-size: 14px;
+      font-weight: 600;
+      z-index: 999;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.3s ease;
+    }
+
+    .pdf-download-btn:hover {
+      background: var(--theme-color-dark);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transform: translateY(-2px);
+    }
+
+    /* Print Styles */
+    @media print {
+      .sidebar,
+      .pdf-download-btn,
+      nav.app-nav,
+      .docsify-pagination-container {
+        display: none !important;
+      }
+
+      .markdown-section {
+        max-width: 100% !important;
+      }
+
+      .content {
+        left: 0 !important;
+      }
+    }
   </style>
 </head>
 <body>
@@ -33,7 +78,28 @@
         previousText: 'Precedente',
         nextText: 'Successivo',
       },
-      themeColor: '#42b983'
+      themeColor: '#42b983',
+
+      // Custom plugin for PDF download button
+      plugins: [
+        function(hook, vm) {
+          hook.doneEach(function() {
+            // Remove existing button if present
+            const existingBtn = document.querySelector('.pdf-download-btn');
+            if (existingBtn) existingBtn.remove();
+
+            // Create PDF download button
+            const btn = document.createElement('button');
+            btn.className = 'pdf-download-btn';
+            btn.innerHTML = '📄 Scarica PDF';
+            btn.onclick = function() {
+              window.print();
+            };
+
+            document.body.appendChild(btn);
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify core -->
