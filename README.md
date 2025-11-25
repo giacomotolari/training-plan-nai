@@ -37,5 +37,4 @@ Linee guida pratiche e considerazioni per gestire situazioni reali:
 
 ---
 
-*Inizia dalla sezione [Training Concept](training-concept.md) per comprendere la filosofia del programma!*# training-plan-nai
-# training-plan-nai
+*Inizia dalla sezione [Training Concept](training-concept.md) per comprendere la filosofia del programma!*

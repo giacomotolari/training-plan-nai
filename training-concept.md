@@ -27,14 +27,14 @@ I principi fondamentali su cui si basa questo allenamento sono:
 - **Gioia e motivazione**: l'allenamento deve portare soddisfazione, non stress eccessivo
 - **Progressione intelligente**: raggiungere i limiti gradualmente, senza forzare oltre quando non necessario
 - **Ascolto del corpo**: rispettare i segnali del corpo per prevenire infortuni e sovrallenamento
-- **Focus sugli effetti, non sui numeri**: non focalizziamoci troppo sui numeri (pesi, ripetizioni o tempistiche) ma sull'effetto che il workout dà alla nostra mente e corpo 
+- **Focus sugli effetti, non sui numeri**: non focalizziamoci troppo sui numeri (pesi, ripetizioni o tempistiche) ma sull'effetto che il workout dà alla nostra mente e corpo
 
 ## Training Methodology
 
 Questo programma applica i principi sopra descritti attraverso:
 
 - Sessioni di allenamento che bilanciano intensità e recupero
-- Allenare ogni sessione tutto il corpo per massimizzare l'efficienza e migliorare la funzionalità e recupero
+- Allenamento full body in ogni sessione per massimizzare efficienza, funzionalità e recupero
 - Progressioni graduali che permettono adattamenti sostenibili
 - Flessibilità nel piano per adattarsi alle condizioni del giorno
 - Focus sulla qualità del movimento piuttosto che sulla quantità
@@ -50,8 +50,8 @@ Lo scopo principale di questo piano è **stare in salute**. I risultati attesi i
 - **Incremento della forza funzionale**
 - **Miglioramento della postura**
 - **Maggiore mobilità articolare**
-- **Benessere mentale e fisica sostenibile nel tempo**
-- **Imparare nuovi concetti sul fitness e l'allenamento**
+- **Benessere mentale e fisico sostenibile nel tempo**
+- **Acquisizione di nuove conoscenze sul fitness e l'allenamento**
 
 ## Sources
 

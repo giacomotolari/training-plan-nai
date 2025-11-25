@@ -2,21 +2,43 @@
 
 ## When You Have Extra Time
 
-Cerca di fare più esercizi di mobilità, addominali e cardio.
+Se hai tempo extra, approfitta per:
+- Esercizi di **mobilità articolare** aggiuntivi
+- Lavoro addominale supplementare
+- Sessioni di **cardio** più lunghe
+
+Questi elementi rafforzano i risultati del programma base.
 
 ## Time Constraints
 
-Se hai meno tempo, concentrati sugli esercizi che sono più importanti per il tuo stato attuale
-(es. ti fa male il collo: concentrati su spalle e schiena).
+Se hai **meno tempo** disponibile, concentrati sugli esercizi più rilevanti per le tue esigenze attuali.
+
+**Esempio:** se hai dolore cervicale, dai priorità a spalle e schiena rispetto ad altre fasce muscolari.
 
 ## Dealing with Pain or Discomfort
 
-Se senti dolore durante un esercizio, fermati immediatamente. Valuta se è un dolore muscolare normale (dovuto ad esempio a sforzo) o un segnale di infortunio.
+Se senti dolore durante un esercizio, **fermati immediatamente**.
+
+Valuta il tipo di dolore:
+- **Dolore muscolare normale**: affaticamento da sforzo, sensazione di bruciore
+- **Segnale di infortunio**: dolore acuto, articolare o che persiste dopo l'allenamento
+
+In caso di dubbio, consulta un professionista.
 
 ## Equipment Not Available
 
-Cerca alternative usando il peso del corpo, elastici o trova macchinari simili.
+Quando l'attrezzatura prevista non è disponibile:
+- Usa **esercizi a corpo libero** come alternativa
+- Sostituisci con **elastici di resistenza**
+- Trova macchinari che lavorano sugli stessi gruppi muscolari
+
+La versatilità è fondamentale per mantenere la costanza.
 
 ## Low Energy Days
 
-Ascolta il tuo corpo. Se ti senti stanco, riduci l'intensità o la durata dell'allenamento.
+**Ascolta il tuo corpo.** Nei giorni di scarsa energia:
+- Riduci l'intensità dell'allenamento
+- Accorcia la durata delle sessioni
+- Considera un allenamento di recupero attivo (mobilità, stretching)
+
+È meglio allenarsi leggero che saltare completamente la sessione.
