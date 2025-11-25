@@ -29,7 +29,7 @@ La tabella includerà sia ripetizioni che tempi: **scegli tu** il metodo che pre
 
 > 📊 **[Vai alle Tabelle di Allenamento](table.md)** per vedere gli esercizi dettagliati
 
-### Session 1 - Warming Up
+### Session 1 - Warming Up (durata ~4 minuti)
 
 Riscaldamento completo con esercizi multi-articolari che coinvolgono tutto il corpo.
 
@@ -41,13 +41,13 @@ Riscaldamento completo con esercizi multi-articolari che coinvolgono tutto il co
 
 ➡️ **[Vedi tabella Session 1](table.md#session-1---warming-up)**
 
-### Session 2 - Warming Up Hard
+### Session 2 - Warming Up Hard (durata ~4 minuti)
 
 Riscaldamento intenso con focus sul **core**, per sviluppare stabilità e forza nella parte centrale del corpo, fondamentale per l'esecuzione corretta di tutti gli esercizi.
 
 ➡️ **[Vedi tabella Session 2](table.md#session-2---warming-up-hard)**
 
-### Session 3 - HIIT Full Body
+### Session 3 - HIIT Full Body (durata ~30/35 minuti)
 
 Sessione ad alta intensità con esercizi full body.
 
@@ -59,7 +59,7 @@ Per ogni esercizio:
 
 ➡️ **[Vedi tabella Session 3](table.md#session-3---hiit-full-body)**
 
-### Session 4 - ABS & Cardio
+### Session 4 - ABS & Cardio (durata ~10/15 minuti)
 
 Sessione **opzionale**, da inserire se:
 - Ti senti particolarmente energico

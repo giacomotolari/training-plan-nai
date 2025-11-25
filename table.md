@@ -1,7 +1,5 @@
 # Training Tables
 
-> 📖 **[Leggi prima il Training Schedule](training-schedule.md)** per comprendere la filosofia e gli obiettivi di ogni sessione
-
 ## Metodo di Allenamento
 
 Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a tempo** (utilizzando un timer o un'app) oppure **a ripetizioni**.
@@ -10,7 +8,6 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 
 ## Session 1 - Warming Up
 
-📖 [Leggi la teoria di questa sessione](training-schedule.md#session-1---warming-up)
 
 **Durata:** ~4 minuti | **Recupero:** 5 sec tra esercizi
 
@@ -25,11 +22,11 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 | 7   |           | 25 sec   | 10-15          |          |
 | 8   |           | 25 sec   | 10-15          |          |
 
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-1---warming-up)
 ---
 
 ## Session 2 - Warming Up Hard
 
-📖 [Leggi la teoria di questa sessione](training-schedule.md#session-2---warming-up-hard)
 
 **Durata:** ~4 minuti | **Recupero:** 10 sec tra esercizi
 
@@ -43,11 +40,11 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 | 6   |           | 25 sec   | 10-15          |          |
 | 7   |           | 25 sec   | 10-15          |          |
 
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-2---warming-up-hard)
 ---
 
 ## Session 3 - HIIT Full Body
 
-📖 [Leggi la teoria di questa sessione](training-schedule.md#session-3---hiit-full-body)
 
 **Durata:** ~30/35 minuti | **Recupero:** 1:15 min tra serie e tra esercizi
 
@@ -65,6 +62,7 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 > **Serie 1:** Riscaldamento intenso (fatica moderata)
 > **Serie 2:** Vai fino al cedimento muscolare
 
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-3---hiit-full-body)
 ---
 
 ## Legend
