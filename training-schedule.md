@@ -55,7 +55,7 @@ Sessione ad alta intensità con esercizi full body.
 
 Per ogni esercizio:
 - 1 serie di **riscaldamento intenso** (devi sentire fatica senza esagerare)
-- 1 serie a **failure** (continua fino al cedimento muscolare)
+- 1 serie a **failure** (continua fino al cedimento muscolare senza compromettere la tecnica e `senza esagerare`)
 
 ➡️ **[Vedi tabella Session 3](table.md#session-3---hiit-full-body)**
 
