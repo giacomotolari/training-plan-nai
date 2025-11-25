@@ -22,15 +22,15 @@
       color: white;
       border: none;
       border-radius: 50px;
-      padding: 12px 24px;
+      padding: 10px 20px;
       cursor: pointer;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 600;
-      z-index: 999;
+      z-index: 10;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       transition: all 0.3s ease;
     }
 
@@ -45,6 +45,78 @@
       bottom: auto !important;
       top: 20px !important;
       left: 20px !important;
+      width: 40px !important;
+      height: 40px !important;
+      padding: 8px !important;
+      z-index: 20 !important;
+    }
+
+    .sidebar-toggle span {
+      width: 20px !important;
+      height: 2px !important;
+    }
+
+    /* Adjust content to not overlap with burger menu */
+    .content {
+      padding-left: 20px;
+    }
+
+    /* Mobile Optimizations */
+    @media screen and (max-width: 768px) {
+      /* Smaller burger menu on mobile */
+      .sidebar-toggle {
+        top: 12px !important;
+        left: 12px !important;
+        width: 36px !important;
+        height: 36px !important;
+        padding: 6px !important;
+      }
+
+      .sidebar-toggle span {
+        width: 18px !important;
+      }
+
+      /* Smaller PDF button on mobile */
+      .pdf-download-btn {
+        bottom: 12px;
+        right: 12px;
+        padding: 8px 14px;
+        font-size: 11px;
+        gap: 4px;
+        border-radius: 40px;
+      }
+
+      /* Better spacing for mobile */
+      .content {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+
+      .markdown-section {
+        padding: 20px 15px !important;
+      }
+    }
+
+    /* Extra small screens (phones in portrait) */
+    @media screen and (max-width: 480px) {
+      .sidebar-toggle {
+        top: 10px !important;
+        left: 10px !important;
+        width: 32px !important;
+        height: 32px !important;
+      }
+
+      .pdf-download-btn {
+        bottom: 10px;
+        right: 10px;
+        padding: 7px 12px;
+        font-size: 10px;
+      }
+
+      .markdown-section {
+        padding: 15px 10px !important;
+        font-size: 15px;
+      }
     }
 
     /* Print Styles */
