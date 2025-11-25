@@ -34,6 +34,7 @@ I principi fondamentali su cui si basa questo allenamento sono:
 Questo programma applica i principi sopra descritti attraverso:
 
 - Sessioni di allenamento che bilanciano intensità e recupero
+- Allenare ogni sessione tutto il corpo per massimizzare l'efficienza e migliorare la funzionalità e recupero
 - Progressioni graduali che permettono adattamenti sostenibili
 - Flessibilità nel piano per adattarsi alle condizioni del giorno
 - Focus sulla qualità del movimento piuttosto che sulla quantità
