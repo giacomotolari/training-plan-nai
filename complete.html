@@ -2,9 +2,9 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8">
-  <title>Training Plan - Completo</title>
+  <title>Training Plan - Documento Completo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
   <style>
     body {
       max-width: 900px;
@@ -48,6 +48,29 @@
       padding-top: 40px;
     }
 
+    .cover {
+      text-align: center;
+      margin-bottom: 60px;
+      padding: 40px 0;
+    }
+
+    .cover h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+      color: #2c3e50;
+    }
+
+    .cover .subtitle {
+      font-size: 20px;
+      color: #666;
+      margin: 10px 0;
+    }
+
+    .cover .doc-type {
+      color: #888;
+      font-style: italic;
+    }
+
     @media print {
       .print-btn {
         display: none;
@@ -75,69 +98,152 @@
       }
     }
   </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
 </head>
 <body>
   <button class="print-btn" onclick="window.print()">🖨️ Stampa / Salva PDF</button>
 
-  <article class="markdown-body" id="content">
-    <div style="text-align: center; margin-bottom: 60px;">
-      <h1 style="font-size: 48px; margin-bottom: 10px;">Training Plan</h1>
-      <p style="font-size: 20px; color: #666;">Piano di Allenamento - Giacomo</p>
-      <p style="color: #888;">Documento Completo</p>
+  <article class="markdown-body">
+    <div class="cover">
+      <h1>Training Plan</h1>
+      <p class="subtitle">Piano di Allenamento - Nai</p>
+      <p class="doc-type">Documento Completo</p>
     </div>
 
-    <div id="markdown-content">Caricamento...</div>
+    <div id="content">
+      <p>Generazione documento in corso...</p>
+    </div>
   </article>
 
-  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
   <script>
-    async function loadMarkdown() {
-      // Wait for marked to be available
-      if (typeof marked === 'undefined') {
-        document.getElementById('markdown-content').innerHTML = '<p style="color: red;">Errore: libreria marked non caricata</p>';
-        return;
-      }
+    // Embedded markdown content
+    const markdownContent = `
+# Training Plan
 
-      const files = [
-        { name: 'README.md', title: 'Introduzione' },
-        { name: 'training-concept.md', title: 'Training Concept' },
-        { name: 'training-schedule.md', title: 'Training Schedule' },
-        { name: 'training-guidelines.md', title: 'Training Guidelines' }
-      ];
+Benvenuta nel piano di allenamento personalizzato!
 
-      let combinedContent = '';
+## 📋 Contenuti
 
-      for (let i = 0; i < files.length; i++) {
-        const file = files[i];
-        try {
-          const response = await fetch(file.name);
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          const text = await response.text();
+Questo programma di allenamento è strutturato in tre sezioni principali:
 
-          // Add page break before each section (except first)
-          if (i > 0) {
-            combinedContent += '<div class="page-break"></div>';
-          }
+### Training Concept
+Scopri la filosofia e i principi fondamentali su cui si basa questo piano di allenamento.
 
-          // Use marked with compatibility for both old and new API
-          const html = marked.parse ? marked.parse(text) : marked(text);
-          combinedContent += html;
-        } catch (error) {
-          console.error(`Error loading ${file.name}:`, error);
-          combinedContent += `<p style="color: red;">Errore nel caricamento di ${file.name}: ${error.message}</p>`;
-        }
-      }
+### Training Schedule
+La tabella completa del piano di allenamento.
 
-      document.getElementById('markdown-content').innerHTML = combinedContent;
-    }
+### Training Guidelines
+Linee guida pratiche e considerazioni per gestire situazioni reali.
 
-    // Wait for DOM and marked library to load
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', loadMarkdown);
-    } else {
-      loadMarkdown();
+---
+
+## 🎯 Obiettivo Principale
+
+**Massimizzare i risultati con il minor sforzo e tempo possibile**, mantenendo costanza, gioia e sostenibilità nell'allenamento.
+
+---
+
+<div class="page-break"></div>
+
+# Training Concept
+
+## Introduction
+
+Questo piano di allenamento si basa su ricerche condotte negli ultimi anni da professionisti nel campo del fitness e dell'allenamento funzionale, integrate con prove e teorie sviluppate da Giacomo durante i suoi anni di esperienza nell'allenamento e nelle fisioterapie seguite a numerose operazioni e infortuni. L'obiettivo principale è **massimizzare i risultati con il minor sforzo e tempo possibile**.
+
+## Giacomo's Approach
+
+La ragione di questo approccio è semplice: un allenamento troppo stressante che occupa troppo tempo è facile da saltare o addirittura abbandonare. Inoltre, porta facilmente a infortuni, poca voglia e mancanza di focus.
+
+## Training Philosophy
+
+La filosofia di questo programma si basa su un circolo virtuoso:
+
+**Più stiamo meglio, più ci alleniamo meglio. Più ci alleniamo meglio, più staremo meglio.**
+
+L'obiettivo non è spingersi sempre al limite massimo, ma trovare un equilibrio sostenibile. Dobbiamo raggiungere i nostri limiti, ma non sempre e non superarli costantemente.
+
+**Costanza e gioia nell'allenamento sono la cosa più importante.** Notare miglioramenti senza troppi sforzi ci farà stare felici, e questa felicità porterà a ulteriori miglioramenti naturali.
+
+## Key Principles
+
+I principi fondamentali su cui si basa questo allenamento sono:
+
+- **Sostenibilità**: l'allenamento deve essere sostenibile nel tempo, non solo per poche settimane
+- **Costanza sopra intensità**: meglio allenarsi regolarmente con intensità moderata che raramente ad alta intensità
+- **Gioia e motivazione**: l'allenamento deve portare soddisfazione, non stress eccessivo
+- **Progressione intelligente**: raggiungere i limiti gradualmente, senza forzare oltre quando non necessario
+- **Ascolto del corpo**: rispettare i segnali del corpo per prevenire infortuni e sovrallenamento
+- **Focus sugli effetti, non sui numeri**: non focalizziamoci troppo sui numeri (pesi, ripetizioni o tempistiche) ma sull'effetto che il workout dà alla nostra mente e corpo
+
+## Training Methodology
+
+Questo programma applica i principi sopra descritti attraverso:
+
+- Sessioni di allenamento che bilanciano intensità e recupero
+- Progressioni graduali che permettono adattamenti sostenibili
+- Flessibilità nel piano per adattarsi alle condizioni del giorno
+- Focus sulla qualità del movimento piuttosto che sulla quantità
+- Equilibrio tra diversi aspetti del fitness (forza, resistenza, mobilità, postura)
+
+## Expected Results
+
+Lo scopo principale di questo piano è **stare in salute**. I risultati attesi includono:
+
+- **Miglioramento della salute generale**
+- **Correzione di debolezze muscolari e squilibri**
+- **Aumento della resistenza cardiovascolare e muscolare**
+- **Incremento della forza funzionale**
+- **Miglioramento della postura**
+- **Maggiore mobilità articolare**
+- **Benessere mentale e fisica sostenibile nel tempo**
+- **Imparare nuovi concetti sul fitness e l'allenamento**
+
+## Sources
+
+*Le fonti e riferimenti scientifici verranno aggiunti qui*
+
+<div class="page-break"></div>
+
+# Training Schedule
+
+## Weekly Overview
+
+## Training Sessions
+
+### Session 1
+
+### Session 2
+
+### Session 3
+
+### Session 4
+
+## Exercise Details
+
+<div class="page-break"></div>
+
+# Training Guidelines and Considerations
+
+## When You Have Extra Time
+
+## Time Constraints
+
+## Dealing with Pain or Discomfort
+
+## Equipment Not Available
+
+## Low Energy Days
+
+## Logistics and Practical Considerations
+`;
+
+    // Render markdown
+    try {
+      const html = marked.parse(markdownContent);
+      document.getElementById('content').innerHTML = html;
+    } catch (error) {
+      document.getElementById('content').innerHTML = '<p style="color: red;">Errore nella generazione del documento: ' + error.message + '</p>';
     }
   </script>
 </body>
