@@ -89,9 +89,15 @@
     <div id="markdown-content">Caricamento...</div>
   </article>
 
-  <script src="//cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
   <script>
     async function loadMarkdown() {
+      // Wait for marked to be available
+      if (typeof marked === 'undefined') {
+        document.getElementById('markdown-content').innerHTML = '<p style="color: red;">Errore: libreria marked non caricata</p>';
+        return;
+      }
+
       const files = [
         { name: 'README.md', title: 'Introduzione' },
         { name: 'training-concept.md', title: 'Training Concept' },
@@ -105,6 +111,9 @@
         const file = files[i];
         try {
           const response = await fetch(file.name);
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
           const text = await response.text();
 
           // Add page break before each section (except first)
@@ -112,18 +121,24 @@
             combinedContent += '<div class="page-break"></div>';
           }
 
-          combinedContent += marked.parse(text);
+          // Use marked with compatibility for both old and new API
+          const html = marked.parse ? marked.parse(text) : marked(text);
+          combinedContent += html;
         } catch (error) {
           console.error(`Error loading ${file.name}:`, error);
-          combinedContent += `<p style="color: red;">Errore nel caricamento di ${file.name}</p>`;
+          combinedContent += `<p style="color: red;">Errore nel caricamento di ${file.name}: ${error.message}</p>`;
         }
       }
 
       document.getElementById('markdown-content').innerHTML = combinedContent;
     }
 
-    // Load content when page loads
-    loadMarkdown();
+    // Wait for DOM and marked library to load
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadMarkdown);
+    } else {
+      loadMarkdown();
+    }
   </script>
 </body>
 </html>
