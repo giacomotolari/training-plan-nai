@@ -1,8 +1,12 @@
 # Training Tables
 
+> 📖 **[Leggi prima il Training Schedule](training-schedule.md)** per comprendere la filosofia e gli obiettivi di ogni sessione
+
 ## Metodo di Allenamento
 
 Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a tempo** (utilizzando un timer o un'app) oppure **a ripetizioni**.
+
+💡 **Consigli pratici:** Consulta le [Training Guidelines](training-guidelines.md) per gestire situazioni come mancanza di tempo, dolori o attrezzatura non disponibile.
 
 ## Session 1 - Warming Up
 
@@ -63,3 +67,11 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 - 🔢 **Ripetizioni**: Alternativa senza timer
 - 🎥 **Video**: Link al video dimostrativo dell'esercizio
 - **Failure**: Continua fino a quando non puoi più mantenere la forma corretta dell'esercizio (attenzione a non esagerare)
+
+---
+
+## Link Utili
+
+- 📅 [Training Schedule](training-schedule.md) - Filosofia e descrizione dettagliata delle sessioni
+- 📝 [Training Guidelines](training-guidelines.md) - Gestione di situazioni pratiche (tempo, dolori, energia)
+- 📖 [Training Concept](training-concept.md) - Principi fondamentali del programma

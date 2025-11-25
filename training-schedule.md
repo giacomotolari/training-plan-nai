@@ -27,6 +27,8 @@ Un'app come **Tabata Timer** può aiutarti a gestire i tempi di lavoro e recuper
 
 La tabella includerà sia ripetizioni che tempi: **scegli tu** il metodo che preferisci.
 
+> 📊 **[Vai alle Tabelle di Allenamento](table.md)** per vedere gli esercizi dettagliati
+
 ### Session 1 - Warming Up
 
 Riscaldamento completo con esercizi multi-articolari che coinvolgono tutto il corpo.
@@ -37,9 +39,13 @@ Riscaldamento completo con esercizi multi-articolari che coinvolgono tutto il co
 - Migliorare la mobilità articolare
 - Prevenire infortuni
 
+➡️ **[Vedi tabella Session 1](table.md#session-1---warming-up)**
+
 ### Session 2 - Warming Up Hard
 
 Riscaldamento intenso con focus sul **core**, per sviluppare stabilità e forza nella parte centrale del corpo, fondamentale per l'esecuzione corretta di tutti gli esercizi.
+
+➡️ **[Vedi tabella Session 2](table.md#session-2---warming-up-hard)**
 
 ### Session 3 - HIIT Full Body
 
@@ -50,6 +56,8 @@ Sessione ad alta intensità con esercizi full body.
 Per ogni esercizio:
 - 1 serie di **riscaldamento intenso** (devi sentire fatica senza esagerare)
 - 1 serie a **failure** (continua fino al cedimento muscolare)
+
+➡️ **[Vedi tabella Session 3](table.md#session-3---hiit-full-body)**
 
 ### Session 4 - ABS & Cardio
 
