@@ -10,6 +10,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 
 ## Session 1 - Warming Up
 
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-1---warming-up)
+
 **Durata:** ~4 minuti | **Recupero:** 5 sec tra esercizi
 
 | #   | Esercizio | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥 |
@@ -27,6 +29,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 
 ## Session 2 - Warming Up Hard
 
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-2---warming-up-hard)
+
 **Durata:** ~4 minuti | **Recupero:** 10 sec tra esercizi
 
 | #   | Esercizio | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥 |
@@ -42,6 +46,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ---
 
 ## Session 3 - HIIT Full Body
+
+📖 [Leggi la teoria di questa sessione](training-schedule.md#session-3---hiit-full-body)
 
 **Durata:** ~30/35 minuti | **Recupero:** 1:15 min tra serie e tra esercizi
 
