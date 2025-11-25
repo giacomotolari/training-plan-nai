@@ -59,8 +59,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 | 7   |           | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  |          |
 | 8   |           | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  |          |
 
-> **Serie 1:** Riscaldamento intenso (fatica moderata)
-> **Serie 2:** Vai fino al cedimento muscolare
+- **Serie 1:** Riscaldamento intenso (fatica moderata)
+- **Serie 2:** Vai fino al cedimento muscolare
 
 📖 [Leggi la teoria di questa sessione](training-schedule.md#session-3---hiit-full-body)
 ---
