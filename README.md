@@ -1,6 +1,6 @@
 # Training Plan
 
-Benvenuta nel piano di allenamento personalizzato di Giacomo!
+Benvenuta nel piano di allenamento personalizzato!
 
 ## 📋 Contenuti
 

@@ -54,4 +54,4 @@ Lo scopo principale di questo piano è **stare in salute**. I risultati attesi i
 
 ## Sources
 
-*Le fonti e riferimenti scientifici verranno aggiunti qui*
+- [The Simple Science of Building Muscle (All In One Guide)](https://youtu.be/2kui0fFKMyE?si=2FkfAoYYjorBxJIs)
