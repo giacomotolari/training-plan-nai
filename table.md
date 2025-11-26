@@ -43,14 +43,19 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 
 | #   | Esercizio                | Serie 1                  | Pausa | Serie 2     | Pausa | Video 🎥                                          |
 | --- | ------------------------ | ------------------------ | ----- | ----------- | ----- | ------------------------------------------------- |
-| 1   | Push-ups                 | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example15)  |
-| 2   | Squats                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example16)  |
-| 3   | Pull-ups / Rows          | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example17)  |
-| 4   | Lunges                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example18)  |
-| 5   | Dips                     | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example19)  |
-| 6   | Deadlifts                | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example20)  |
-| 7   | Plank                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example21)  |
-| 8   | Plank                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example21)  |
+| 1   | Biceps                 | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=20ibpB635Rw)  |
+| 2   | Triceps                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/wosjKWDantc)  |
+| 3   | Shoulder press          | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/k6tzKisR3NY)  |
+| 4   | Shoulder lateral raise                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/U2gMn8GXr2A)  |
+| 5   | Dumbell Shrugs                     | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/FCsKgCxlcHQ)  |
+| 6   | Romanian Deadlift                | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/_TchJLlBO-4)  |
+| 7   | Cable Rope Pull                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/WcXfHh28KGU)  |
+| 8   | Lat Pulldown                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/5s6KGLTMgoI)  |
+
+Horizontal Pulley  https://www.youtube.com/shorts/LyZH4UGdDTc
+Hip Thrust https://www.youtube.com/shorts/Pdv5krqdjOk
+Chest https://www.youtube.com/shorts/4eNDemI3hfk
+Dumbbell Sumo Squat https://www.youtube.com/watch?v=5cyIfPETLJk
 
 - **Serie 1:** Riscaldamento intenso (fatica moderata)
 - **Serie 2:** Vai fino al cedimento muscolare senza compromettere la tecnica
