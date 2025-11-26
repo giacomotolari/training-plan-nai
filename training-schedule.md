@@ -21,11 +21,12 @@ In base ai test effettuati e alle tue esigenze specifiche, gli obiettivi princip
 
 ## Training Sessions
 
-Per comodità e per gestire meglio il tempo complessivo dell'allenamento (circa 50-60 minuti), è consigliato allenarsi **a tempo** piuttosto che a ripetizioni. Questo ti permette di concentrarti sulla tecnica invece che sul conteggio.
-
+- Per comodità e per gestire meglio il tempo complessivo dell'allenamento (circa 50-60 minuti), è consigliato allenarsi **a tempo** piuttosto che a ripetizioni. Questo ti permette di concentrarti sulla tecnica invece che sul conteggio.
 Un'app come **Tabata Timer** può aiutarti a gestire i tempi di lavoro e recupero, motivandoti come se avessi un coach che ti guida.
 
-La tabella includerà sia ripetizioni che tempi: **scegli tu** il metodo che preferisci.
+- La tabella includerà sia ripetizioni che tempi: **scegli tu** il metodo che preferisci.
+
+- Puoi cambiare l'ordine degli esercizi in base alle tue preferenze o necessità
 
 > 📊 **[Vai alle Tabelle di Allenamento](table.md)** per vedere gli esercizi dettagliati
 
