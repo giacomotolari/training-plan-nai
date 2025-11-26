@@ -8,34 +8,32 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 
 ## Session 1 - Warming Up
 
-**Durata:** ~4 minuti | **Recupero:** 5 sec tra esercizi
+**Durata:** ~3/4 minuti | **Recupero:** 5 sec tra esercizi
 
 | #   | Esercizio            | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                              |
 | --- | -------------------- | -------- | -------------- | ----------------------------------------------------- |
 | 1   | Jumping Jacks        | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=iSSAk4XCsRA)    |
-| 2   | Arm Circles          | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example1)        |
-| 3   | Leg Swings           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example2)        |
-| 4   | High Knees           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example3)        |
+| 2   | Asian Squat          | 25 sec   | 10-15          | [▶️](https://www.youtube.com/shorts/b4D0jAQLtkY)        |
+| 3   | World’s Greatest Stretch L           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=-CiWQ2IvY34)        |
+| 4   | World’s Greatest Stretch R           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=-CiWQ2IvY34)        |
 | 5   | Butt Kicks           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example4)        |
 | 6   | Torso Twists         | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example5)        |
-| 7   | Shoulder Rolls       | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example6)        |
-| 8   | Hip Circles          | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example7)        |
+| 7   | Scapular Push‑Up          | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=NKekqeudgWs)        |
 
 ## 📖 [Leggi la teoria di questa sessione](training-schedule.md#session-1---warming-up)
 
 ## Session 2 - Warming Up Hard
 
-**Durata:** ~4 minuti | **Recupero:** 10 sec tra esercizi
+**Durata:** ~3/4 minuti | **Recupero:** 10 sec tra esercizi
 
 | #   | Esercizio              | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                          |
 | --- | ---------------------- | -------- | -------------- | ------------------------------------------------- |
-| 1   | Burpees                | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example8)   |
-| 2   | Mountain Climbers      | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example9)   |
-| 3   | Squat Jumps            | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example10)  |
-| 4   | Push-up to T           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example11)  |
+| 1   | Side Plank L                | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=tbWPBOgju9g)   |
+| 2   | Side Plank R      | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=tbWPBOgju9g)   |
+| 3   | Squat Jumps            | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=BRfxI2Es2lE)  |
+| 4   | Shoulder taps           | 25 sec   | 10-15          | [▶️](https://www.youtube.com/shorts/VfwCQ14soUo)  |
 | 5   | Plank Jacks            | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example12)  |
-| 6   | Lunge Jumps            | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example13)  |
-| 7   | Star Jumps             | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=example14)  |
+| 6   | Spiderman plank             | 25 sec   | 10-15          | [▶️](https://www.youtube.com/watch?v=DVXT7xBA_jU)  |
 
 ## 📖 [Leggi la teoria di questa sessione](training-schedule.md#session-2---warming-up-hard)
 
@@ -52,12 +50,22 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 | 5   | Dips                     | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example19)  |
 | 6   | Deadlifts                | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example20)  |
 | 7   | Plank                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example21)  |
-| 8   | Russian Twists           | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example22)  |
+| 8   | Plank                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=example21)  |
 
 - **Serie 1:** Riscaldamento intenso (fatica moderata)
 - **Serie 2:** Vai fino al cedimento muscolare senza compromettere la tecnica
 
+
 ## 📖 [Leggi la teoria di questa sessione](training-schedule.md#session-3---hiit-full-body)
+
+
+### Session 4 - Bulgarian Squat (durata ~5 minuti) 
+
+[▶️](https://www.youtube.com/watch?v=vgn7bSXkgkA)
+3/4 serie da 10/15 per gamba (recupero 30 sec tra serie e 10 sec tra gambe)
+
+## 📖 [Leggi la teoria di questa sessione](training-schedule.md#session-4---bulgarian-squat--durata--5-minuti-)
+
 
 ## Legend
 

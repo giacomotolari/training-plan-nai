@@ -47,7 +47,7 @@ Riscaldamento intenso con focus sul **core**, per sviluppare stabilità e forza 
 
 ➡️ **[Vedi tabella Session 2](table.md#session-2---warming-up-hard)**
 
-### Session 3 - HIIT Full Body (durata ~30/35 minuti)
+### Session 3 - HIIT Full Body (durata ~30 minuti)
 
 Sessione ad alta intensità con esercizi full body.
 
@@ -59,11 +59,19 @@ Per ogni esercizio:
 
 ➡️ **[Vedi tabella Session 3](table.md#session-3---hiit-full-body)**
 
-### Session 4 - ABS & Cardio (durata ~10/15 minuti)
+### Session 4 - Bulgarian Squat (durata ~5 minuti)
+
+Molto importante per rinforzare gambe e glutei, migliorare l'equilibrio e la stabilità del core e ginocchia (ottimo per il padel).
+
+**Puoi farlo pure a casa, senza attrezzatura.**
+
+### Session 5 - ABS e Cardio (durata ~5/10 minuti)
 
 Sessione **opzionale**, da inserire se:
 - Ti senti particolarmente energico
 - Prevedi di allenarti meno durante la settimana
 - Vuoi dare maggiore enfasi ad addominali e cardio
 
+
 Puoi saltarla tranquillamente, dato che core e cardio sono già allenati nelle altre sessioni.
+**Puoi farlo pure a casa, senza attrezzatura.**
