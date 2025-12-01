@@ -9,7 +9,7 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## Session 1 - Warming Up
 ## 📖 [Teoria](training-schedule.md#session-1---warming-up)
 
-**Durata:** ~4 minuti | **Recupero:** 5 sec. break tra esercizi
+**Durata:** ~4 minuti | **Recupero:** 5 sec. tra esercizi
 
 | #   | Esercizio            | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                              |
 | --- | -------------------- | -------- | -------------- | ----------------------------------------------------- |
@@ -23,7 +23,7 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## Session 2 - Warming Up Hard
 ## 📖 [Teoria](training-schedule.md#session-2---warming-up-hard)
 
-**Durata:** ~3 minuti | **Recupero:** 10 sec. break tra esercizi
+**Durata:** ~3 minuti | **Recupero:** 10 sec. tra esercizi
 
 | #   | Esercizio              | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                          |
 | --- | ---------------------- | -------- | -------------- | ------------------------------------------------- |
@@ -38,26 +38,31 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## 📖 [Teoria](training-schedule.md#session-3---hiit-full-body)
 
 **Durata:** ~30/35 minuti | **Recupero:** 1:15 min tra serie e tra esercizi
+**Serie 1:** 35 sec / 10-15 reps (riscaldamento intenso)
+**Serie 2:** Failure (fino al cedimento muscolare senza compromettere la tecnica)
 
-| #   | Esercizio                | Serie 1                  | Break | Serie 2     | Break | Video 🎥                                          |
-| --- | ------------------------ | ------------------------ | ----- | ----------- | ----- | ------------------------------------------------- |
-| 1   | Biceps                 | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/watch?v=20ibpB635Rw)  |
-| 2   | Triceps                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/wosjKWDantc)  |
-| 3   | Shoulder press          | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/k6tzKisR3NY)  |
-| 4   | Shoulder lateral raise                   | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/U2gMn8GXr2A)  |
-| 5   | Dumbell Shrugs                     | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/FCsKgCxlcHQ)  |
-| 6   | Romanian Deadlift                | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/_TchJLlBO-4)  |
-| 7   | Cable Rope Pull                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/WcXfHh28KGU)  |
-| 8   | Lat Pulldown                    | 35 sec<br>_(10-15 reps)_ | 1:15  | **Failure** | 1:15  | [▶️](https://www.youtube.com/shorts/5s6KGLTMgoI)  |
+Gli esercizi principali della sessione HIIT Full Body sono:
 
-Horizontal Pulley  https://www.youtube.com/shorts/LyZH4UGdDTc
-Hip Thrust https://www.youtube.com/shorts/Pdv5krqdjOk
-Chest https://www.youtube.com/shorts/4eNDemI3hfk
-Dumbbell Sumo Squat https://www.youtube.com/watch?v=5cyIfPETLJk
+| #   | Esercizio                | Video 🎥                                          |
+| --- | ------------------------ | ------------------------------------------------- |
+| 1   | Dumbell Shrugs                    [▶️](https://www.youtube.com/shorts/FCsKgCxlcHQ)  |
+| 2   | Shoulder press         [▶️](https://www.youtube.com/shorts/k6tzKisR3NY)  |
+| 3   | Shoulder lateral raise                  [▶️](https://www.youtube.com/shorts/U2gMn8GXr2A)  |
+| 4   | Cable Rope Pull                   [▶️](https://www.youtube.com/shorts/WcXfHh28KGU)  |
+| 5   | Lat Pulldown                   [▶️](https://www.youtube.com/shorts/5s6KGLTMgoI)  |
+| 6   | Horizontal Pulley                   [▶️](https://www.youtube.com/shorts/LyZH4UGdDTc)  |
+| 7   | Hip Thrust                   [▶️](https://www.youtube.com/shorts/Pdv5krqdjOk)  |
+| 8   | Dumbbell Sumo Squat                   [▶️](https://www.youtube.com/watch?v=5cyIfPETLJk)  |
+| 9   | Romanian Deadlift               [▶️](https://www.youtube.com/shorts/_TchJLlBO-4)  |
 
-- **Serie 1:** Riscaldamento intenso (fatica moderata)
-- **Serie 2:** Vai fino al cedimento muscolare senza compromettere la tecnica
+Questi falli solo una volta a settimana cercando di inserirli in una giornata in cui ti senti più energico o
+se fai la terza sessione di allenamento settimanale.
 
+Puoi inserirli pure togliendo uno degli esercizi della sessione HIIT Full Body.
+
+| 10   | Chest                   [▶️](https://www.youtube.com/shorts/4eNDemI3hfk)  |
+| 11   | Biceps                [▶️](https://www.youtube.com/watch?v=20ibpB635Rw)  |
+| 12   | Triceps                  [▶️](https://www.youtube.com/shorts/wosjKWDantc)  |
 
 
 
