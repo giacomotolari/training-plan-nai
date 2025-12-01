@@ -9,7 +9,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## Session 1 - Warming Up
 ## 📖 [Teoria](training-schedule.md#session-1---warming-up)
 
-**Durata:** ~4 minuti | **Recupero:** 5 sec. tra esercizi
+- **Durata:** ~4 minuti
+- **Recupero:** 5 sec. tra esercizi
 
 | #   | Esercizio            | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                              |
 | --- | -------------------- | -------- | -------------- | ----------------------------------------------------- |
@@ -23,7 +24,8 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## Session 2 - Warming Up Hard
 ## 📖 [Teoria](training-schedule.md#session-2---warming-up-hard)
 
-**Durata:** ~3 minuti | **Recupero:** 10 sec. tra esercizi
+- **Durata:** ~3 minuti 
+- **Recupero:** 10 sec. tra esercizi
 
 | #   | Esercizio              | Tempo ⏱️ | Ripetizioni 🔢 | Video 🎥                                          |
 | --- | ---------------------- | -------- | -------------- | ------------------------------------------------- |
@@ -37,33 +39,34 @@ Per ogni sessione di allenamento, puoi scegliere di eseguire gli esercizi **a te
 ## Session 3 - HIIT Full Body
 ## 📖 [Teoria](training-schedule.md#session-3---hiit-full-body)
 
-**Durata:** ~30/35 minuti | **Recupero:** 1:15 min tra serie e tra esercizi
-**Serie 1:** 35 sec / 10-15 reps (riscaldamento intenso)
-**Serie 2:** Failure (fino al cedimento muscolare senza compromettere la tecnica)
+- **Durata:** ~30/35 minuti 
+- **Recupero:** 1:15 min tra serie e tra esercizi 
+- **Serie 1:** 35 sec / 10-15 reps (riscaldamento intenso) 
+- **Serie 2:** Failure (fino al cedimento muscolare senza compromettere la tecnica)
 
-Gli esercizi principali della sessione HIIT Full Body sono:
+**Gli esercizi principali della sessione HIIT Full Body sono:**
 
 | #   | Esercizio                | Video 🎥                                          |
 | --- | ------------------------ | ------------------------------------------------- |
-| 1   | Dumbell Shrugs                    [▶️](https://www.youtube.com/shorts/FCsKgCxlcHQ)  |
-| 2   | Shoulder press         [▶️](https://www.youtube.com/shorts/k6tzKisR3NY)  |
-| 3   | Shoulder lateral raise                  [▶️](https://www.youtube.com/shorts/U2gMn8GXr2A)  |
-| 4   | Cable Rope Pull                   [▶️](https://www.youtube.com/shorts/WcXfHh28KGU)  |
-| 5   | Lat Pulldown                   [▶️](https://www.youtube.com/shorts/5s6KGLTMgoI)  |
-| 6   | Horizontal Pulley                   [▶️](https://www.youtube.com/shorts/LyZH4UGdDTc)  |
-| 7   | Hip Thrust                   [▶️](https://www.youtube.com/shorts/Pdv5krqdjOk)  |
-| 8   | Dumbbell Sumo Squat                   [▶️](https://www.youtube.com/watch?v=5cyIfPETLJk)  |
-| 9   | Romanian Deadlift               [▶️](https://www.youtube.com/shorts/_TchJLlBO-4)  |
+| 1   | Dumbell Shrugs                    | [▶️](https://www.youtube.com/shorts/FCsKgCxlcHQ)  |
+| 2   | Shoulder press         | [▶️](https://www.youtube.com/shorts/k6tzKisR3NY)  |
+| 3   | Shoulder lateral raise                  | [▶️](https://www.youtube.com/shorts/U2gMn8GXr2A)  |
+| 4   | Cable Rope Pull                   | [▶️](https://www.youtube.com/shorts/WcXfHh28KGU)  |
+| 5   | Lat Pulldown                   | [▶️](https://www.youtube.com/shorts/5s6KGLTMgoI)  |
+| 6   | Horizontal Pulley                   | [▶️](https://www.youtube.com/shorts/LyZH4UGdDTc)  |
+| 7   | Hip Thrust                   | [▶️](https://www.youtube.com/shorts/Pdv5krqdjOk)  |
+| 8   | Dumbbell Sumo Squat                   | [▶️](https://www.youtube.com/watch?v=5cyIfPETLJk)  |
+| 9   | Romanian Deadlift               | [▶️](https://www.youtube.com/shorts/_TchJLlBO-4)  |
 
-Questi falli solo una volta a settimana cercando di inserirli in una giornata in cui ti senti più energico o
+Questi falli solo una volta a settimana cercando di inserirli in una giornata in cui ti senti più energica o
 se fai la terza sessione di allenamento settimanale.
-
 Puoi inserirli pure togliendo uno degli esercizi della sessione HIIT Full Body.
 
-| 10   | Chest                   [▶️](https://www.youtube.com/shorts/4eNDemI3hfk)  |
-| 11   | Biceps                [▶️](https://www.youtube.com/watch?v=20ibpB635Rw)  |
-| 12   | Triceps                  [▶️](https://www.youtube.com/shorts/wosjKWDantc)  |
-
+| #   | Esercizio                | Video 🎥                                          |
+| --- | ------------------------ | ------------------------------------------------- |
+| 1   | Chest                   | [▶️](https://www.youtube.com/shorts/4eNDemI3hfk)  |
+| 2   | Biceps                | [▶️](https://www.youtube.com/watch?v=20ibpB635Rw)  |
+| 3   | Triceps                  | [▶️](https://www.youtube.com/shorts/wosjKWDantc)  |
 
 
 ### Session 4 - Bulgarian Squat (durata ~5 minuti) 
@@ -76,7 +79,7 @@ Puoi inserirli pure togliendo uno degli esercizi della sessione HIIT Full Body.
 
 ## Legend
 
-- ⏱️ **Tempo**: Usa un timer o app come Tabata Timer
+- ⏱️ **Tempo**: Usa un timer o app come Tabata Timer 
 - 🔢 **Ripetizioni**: Alternativa senza timer
 - 🎥 **Video**: Link al video dimostrativo dell'esercizio
 - **Failure**: Continua fino a quando non puoi più mantenere la forma corretta dell'esercizio (attenzione a non esagerare)
